@@ -1,0 +1,24 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apiKeyCheck.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@noble/secp256k1": "^1.6.0",
+    "@polkadot/api": "^8.7.1",
+    "@scure/base": "^1.1.1",
+    "bitcoinjs-lib": "^6.0.1",
+    "bn.js": "^5.2.1",
+    "bs58": "^5.0.0",
+    "coinkey": "^3.0.0",
+    "ecpair": "^2.0.1",
+    "elliptic": "^6.5.4",
+    "js-sha3": "^0.8.0"
+  }
+}
